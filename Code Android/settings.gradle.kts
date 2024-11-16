@@ -21,4 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "ASM1_AND103_MD19304_PH51095"
 include(":app")
- 
